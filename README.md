@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ImShad0w
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Arch Linux
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Dunno Yet
+- 👀 I’m interested in front-end and back-end development
+- 🌱 I’m currently learning CSS, JavaScript and HTML
+- 💞️ I’m looking to collaborate on frontend projects
 
 <!---
 ImShad0w/ImShad0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
