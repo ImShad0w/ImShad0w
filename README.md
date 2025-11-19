@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImShad0w
-- 👀 I’m interested in front-end and back-end development
-- 🌱 I’m currently learning CSS, JavaScript and HTML
-- 💞️ I’m looking to collaborate on frontend projects
+- I am a Fullstack Web Dev student with enthusiasm in Cybersecurity
+- I live by the moto: Create, Break, Fix, Repeat
+- Currently learning: Vue3, NodeJS, Laravel 
 
 <!---
 ImShad0w/ImShad0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
