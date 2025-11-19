@@ -3,7 +3,7 @@
 - I live by the moto: Create, Break, Fix, Repeat
 - Currently learning: Vue3, NodeJS, Laravel
 
-- [![My Stats](https://github-readme-stats.vercel.app/api?username=ImShad0w)](https://github.com/anuraghazra/github-readme-stats)
+  [![My Stats](https://github-readme-stats.vercel.app/api?username=ImShad0w)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ImShad0w/ImShad0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
